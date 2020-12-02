@@ -4,7 +4,7 @@
 
 # Lab 6 
 
-![gitpush](Foto/1.png) <br>
+![gitpush](foto/jangan.png) <br>
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
@@ -156,10 +156,10 @@ print("Keluar")
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
-![gitpush](Foto/2.png) <br>
+![gitpush](foto/2.png) <br>
 
 Hasil Flowchart seperti berikut ini :
 
-![gitpush](Foto/3.png) <br>
+![gitpush](foto/3.png) <br>
 
 # TERIMA KASIH
